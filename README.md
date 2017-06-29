@@ -1,0 +1,2 @@
+# OSINT
+Automating OSINT
